@@ -1,0 +1,176 @@
+/* #EFF5F5
+#D6E4E5
+#497174
+#EB6440 */
+/* #EAC7C7
+#A0C3D2
+#F7F5EB
+#EAE0DA */
+/* 
+font-family: 'Merriweather', serif; */
+/* font-family: 'Dancing Script', cursive; */
+body{
+    width: 100%;
+    margin: 0px;
+    background-color:#D6E4E5;
+    text-align: center;
+    padding-top: 0px ;
+}
+.page-1{
+    padding: 5%;
+}
+h1{
+    color: #497174;
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+}
+.work{
+    color: #497174;
+    position: relative;
+    bottom: 50px;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+h2{
+    color: #497174;
+    position: relative;
+    bottom: 50px;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.cloud-1{
+    margin-top: 30px;
+    position: relative;
+    left: 40%;
+}
+.cloud-2{
+    margin: 0px;
+    position: relative;
+    right: 40%;
+}
+.code{
+    position: relative;
+    top: 100px;
+    right: 70px;
+    padding: 3%;
+}
+.section{
+    width: 60%;
+    margin: 0px auto 100px auto;
+    margin-bottom: 50px;
+    padding: 10%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.text{
+    padding-top: 0px;
+}
+.skill{
+    width: 20%;
+    position: relative;
+    bottom: 75px;
+}
+.para{
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    line-height: 1.5;
+    position: relative;
+    bottom: 50px;
+}
+.language{
+    position: relative;
+    bottom: 10px;
+    padding : 2%;
+}
+.lan-img{
+    position:relative;
+    bottom: 35px;
+}
+.dot-2{
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+p{
+    position: relative;
+    bottom: 50px;
+    font-family: 'Merriweather', serif;
+    font-weight:500;
+    line-height: 1.5;
+}
+.p-2{
+    position: relative;
+    top: 5px;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight:500;
+    line-height: 1.5;
+}
+.profile{
+    margin: 0px;
+    width: 30%;
+    border-radius: 50%;
+    position: relative;
+    bottom: 50px;
+    padding: 10%;
+}
+
+.text{
+    padding: 5%;
+}
+.insta{
+    position: relative;
+    right: 210px;
+    top: 38px;
+}
+.personal{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background-color: #497174;
+    position: relative;
+    top: 0px;
+    height: 195px;
+}
+.contact-img{
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 50px;
+    right: 0px;
+}
+.last{
+    margin: auto;
+    height: 20px;
+    width: 180px;
+    position: relative;
+    top: 70px;
+    left: 40px;
+    bottom: 50px;
+    font-size: small;
+    font-family: 'Merriweather', serif;
+}
+.test{
+    color: #000000;
+    font-family: 'Merriweather', serif;
+    text-decoration : none;
+    margin: 10px 20px;
+    position: relative;
+    top: 60px;
+    left: 135px;
+}
+.test:hover{
+    color: #D6E4E5;
+}
+.test-2{
+    color: #000000;
+    font-family: 'Merriweather', serif;
+    text-decoration : none;
+    margin: 10px 20px;
+    position: relative;
+    top: 60px;
+    left: 130px;
+}
+.test-2:hover{
+    color: #D6E4E5;
+}
